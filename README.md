@@ -39,6 +39,7 @@ This repository contains a collection of Bash and PowerShell scripts for automat
    ```
 
 ---
+
 ## 📜 Available Scripts & Options
 
 ### **1️⃣ AWS CLI Setup**
@@ -81,9 +82,7 @@ This repository contains a collection of Bash and PowerShell scripts for automat
   - Delete an item
 
 ---
+
 ## 🚀 Contributing
 Feel free to fork this repository and submit **pull requests** with improvements or additional AWS automation scripts!
-
----
-💡 **Created by Aditya Bhatt | GitHub: [AdityaBhatt3010](https://github.com/AdityaBhatt3010)**
 
