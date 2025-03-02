@@ -29,11 +29,11 @@ This repository contains a collection of Bash and PowerShell scripts for automat
    ```powershell
    ./AWS_CLI_Set_Up_Windows.ps1
    ```
-If the script doesn't run, try:
+   If the script doesn't run, try:
    ```powershell
    Get-ExecutionPolicy -List
    ```
-If the policy is Undefined or Restricted, run the following command:
+   If the policy is Undefined or Restricted, run the following command:
    ```powershell
    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
    ```
